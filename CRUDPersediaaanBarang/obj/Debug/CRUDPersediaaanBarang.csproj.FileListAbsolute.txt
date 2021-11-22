@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\CRUDPersediaaanBarang\CRUDPersediaaanBarang\bin\Debug\CRUDPersediaaanBarang.exe.config
+C:\Users\HP\source\repos\CRUDPersediaaanBarang\CRUDPersediaaanBarang\bin\Debug\CRUDPersediaaanBarang.exe
+C:\Users\HP\source\repos\CRUDPersediaaanBarang\CRUDPersediaaanBarang\bin\Debug\CRUDPersediaaanBarang.pdb
+C:\Users\HP\source\repos\CRUDPersediaaanBarang\CRUDPersediaaanBarang\obj\Debug\CRUDPersediaaanBarang.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CRUDPersediaaanBarang\CRUDPersediaaanBarang\obj\Debug\CRUDPersediaaanBarang.Form1.resources
+C:\Users\HP\source\repos\CRUDPersediaaanBarang\CRUDPersediaaanBarang\obj\Debug\CRUDPersediaaanBarang.Properties.Resources.resources
+C:\Users\HP\source\repos\CRUDPersediaaanBarang\CRUDPersediaaanBarang\obj\Debug\CRUDPersediaaanBarang.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\CRUDPersediaaanBarang\CRUDPersediaaanBarang\obj\Debug\CRUDPersediaaanBarang.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CRUDPersediaaanBarang\CRUDPersediaaanBarang\obj\Debug\CRUDPersediaaanBarang.exe
+C:\Users\HP\source\repos\CRUDPersediaaanBarang\CRUDPersediaaanBarang\obj\Debug\CRUDPersediaaanBarang.pdb
